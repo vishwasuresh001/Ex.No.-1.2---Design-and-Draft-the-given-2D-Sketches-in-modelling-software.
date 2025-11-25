@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![vishwaa](https://github.com/user-attachments/assets/ae216fab-14a8-4e0d-9c18-8965a16ef6a2)
+ <img width="1020" height="717" alt="Screenshot 2025-11-25 212114" src="https://github.com/user-attachments/assets/9dd851cc-7531-45a2-b4d0-2b20940882c3" />
 
  
  ## RESULT
